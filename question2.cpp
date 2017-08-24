@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    	int a, b;
+    	float a, b;
     
-	cout <<"enter two integer number"<<endl;
+	cout <<"enter two number"<<endl;
 	
 	cin >> a;
 	
